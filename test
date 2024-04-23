@@ -6,6 +6,8 @@
     <body>
         <py-script>
             print('Hello, World!')
+            a = input()
+            print(a)
         </py-script>
     </body>
 </html>
